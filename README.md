@@ -58,7 +58,7 @@ Perform gestures in mid-air and mapping to GUI operation/inputs:
   
 - letters input with two hands
   ![basic-gui-operation-4](images/basic-gui-operation-4.png)
-  
+   
 - circle selection
   ![basic-gui-operation-circle](images/basic-gui-operation-circle.png)
 
