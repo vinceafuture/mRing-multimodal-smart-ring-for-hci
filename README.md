@@ -4,32 +4,32 @@ I am a 15+ years ASIC and system design engineer, and this thumb-worn smart ring
 
 ![mRing overview](images/mRing_overview.png)
 
+![finger-cam-view](images/finger-cam-view.png)
+
 ---
 
 ## 🌟 Why mRing?
 
 ### The personal motivation  
-My teenage son plays PC games like HOI4 and Cards for hours every day, and also watches game related videos to improve gaming performance.  
+My teenage son likes to sit whole day to play PC games like HOI4 and Cards or watch and learn from related videos.
 Seeing him develop early symptoms of wrist stress and other issue forced me to rethink the input devices we all still rely on.
 
 ![PC mouse issue](images/PC_mouse_issue.png)
 
-**Why are we still using mouse and keyboard — technologies invented 40 years ago — in a world with AI computing, multimodal input and versatile screens, and intelligent agents?**
+**Why are we still using mouse and keyboard — technologies invented 40 years ago — in a world with AI computing, mature voice tech and powerful agents?**
+**Can we control the PC over the air while we are standing or laying down?**
 
-This question led me to create **mRing**, an input device that compliants to GUI operation on PC/TV/Pad, inlcuding screen positioning, common operations, voice input and new circle-to-X operations. mRing also aligns with the next decade of AI-native interaction.
+This question led me to create **mRing**, an input device that support complex GUI operation and keyboard input on PC, inlcuding cursor positioning, common GUI operations, numbers/letters input and new circle-to-X operations. mRing also aligns with the next decade of AI-native interaction.
 
 ![mRing_capability](images/mRing_capability.png)
 
 ### The broader vision  
 mRing aims to become all-in-one input device:
 
-- A **replacement** or alternative to the mouse&keyboard / multi-touch / remoter / laser-pen
-- A **most convenient method** for Voice input
-- A **best method** for circle-to-X operation which is getting popular for AI interaction
+- A **replacement** or alternative to the mouse&keyboard / multi-touch / remote control / laser-pen
+- A **most natural** method for Voice input
+- A **best method** for circle-to-X operation which is getting popular for interaction with AI
 - A **magic stick** for intuitive manipulation of robots and smart home devices 
-
-![unified_hmi](images/unified_hmi.png)
-![real_world_manu](images/real_world_manu.png)
 
 ---
 
@@ -57,40 +57,27 @@ The result is a new human–machine interface that merges complete function GUI 
 
 ### 1. **Gesture-based control**
 Perform gestures in mid-air to:
-- Scroll  
-- Drag  
-- Rotate  
-- Zoom  
-- Trigger macros  
-- Control robots
+- mouse clicks and scroll, and basic keys 
+  ![basic-gui-operation-1](images/basic-gui-operation-1.png)
   
+- other keys and shortcut with multi finger gesture
+  ![basic-gui-operation-2](images/basic-gui-operation-2.png)
+  
+- number input
+  ![basic-gui-operation-3](images/basic-gui-operation-3.png)
+  
+- letters input with two hands
+  ![basic-gui-operation-4](images/basic-gui-operation-4.png)
+
+- circle selection
+  ![basic-gui-operation-circle](images/basic-gui-operation-circle.png)
+
+    
 ### 2. **Laser-guided pointing**
-Point at screens, objects, robots, or appliances.  
-mRing interprets the laser spot + context + voice to generate actions.
+Point at objects, robots, or smart things with laser guidance.  
+mRing captures the laser spot + context + voice and sends to Hosts/Robots to generate actions.
 
-### 3. **Thumb-joint multi-mode input**
-Three thumb joint positions act as different “tools”:
-- Distal joint → primary action (click/select)  
-- Middle joint → secondary action (switch tool / mode)  
-- Proximal joint → gesture modifier or menu trigger  
-
-This allows mode-switching similar to mouse buttons but far more flexible.
-
-### 4. **Speech + pointing fusion**
-Say:  
-“Pick this up” → point at the object  
-“Move this there” → draw two points  
-“Summarize this” → circle a region on the screen  
-
-mRing becomes a powerful AI pointer.
-
-### 5. **AI-native design**
-mRing works as the hardware input layer for an AI interaction OS (ZingOS), enabling:
-
-- Context-aware actions  
-- Multimodal agent flows  
-- Scene-based interpretation  
-- Structured task generation  
+![real_world_manu](images/real_world_manu.png)
 
 ## 📦 Contents of This Repository
 
@@ -155,6 +142,6 @@ If you believe the mouse will eventually be replaced, or that AI needs new human
 ## 🙏 Acknowledgments
 
 Inspired by pioneers in human-computer interaction who pushed beyond the graphical interface era.  
-mRing aims to explore the next era: **AI-native interaction.**
+mRing also aim to explore the next era: **AI-native interaction.**
 
 
