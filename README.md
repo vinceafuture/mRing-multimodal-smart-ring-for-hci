@@ -1,7 +1,6 @@
-**mRing**: wearable multimodal smart Ring for HCI.
+**mRing**: thumb-worn multimodal smart Ring for HCI.
 
-This repo is to host the design of a thumb-worn smart ring, callled "mRing". 
-mRing is designed to support multimodal mid-air interactions with computers/TV/phone/AI. Users can use it to replace mouse&keyboard or remote control, to control voice input and circle selection, and also for intuitive manipulation of robots and smart home systems.
+This repo is to host the design of a wearable smart ring, callled "mRing". mRing is designed to support multimodal mid-air interactions with computers/TV/phone/AI. Users can use it to replace mouse&keyboard or remote control, to control voice input and circle selection, and also for intuitive manipulation of robots and smart home systems.
 
 ![mRing overview](images/mRing_overview.png)
 
