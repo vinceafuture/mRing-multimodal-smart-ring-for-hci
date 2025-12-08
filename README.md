@@ -1,12 +1,14 @@
 **mRing**: wearable multimodal smart Ring for HCI.
 
-I am a 15+ years ASIC and system design engineer, and this thumb-worn smart ring, callled "mRing", is designed to support multimodal mid-air interactions with computers/TV/AI. Users can use it to replace mouse&keyboard or remote control, also use it for intuitive manipulation of robots and smart home systems.
+This repo is to host the design of a thumb-worn smart ring, callled "mRing". 
+mRing is designed to support multimodal mid-air interactions with computers/TV/phone/AI. Users can use it to replace mouse&keyboard or remote control, to control voice input and circle selection, and also for intuitive manipulation of robots and smart home systems.
 
 ![mRing overview](images/mRing_overview.png)
 
-The main idea is using a macro lens to capture actions between thumb pulb and lateral side of other fingers as gestures to control GUI or as key input, while using a outside scene cam to capture display and calculate it with thumb direction as cursor location.
+The main idea is using a macro lens to capture touching actions between thumb pulb and lateral side of other fingers, then map to operations of GUI control or key input. as below diagram:
 ![finger-cam-view](images/finger-cam-view.png)
 
+Also it use a outside scene cam to capture display in the scene and use it with thumb direction (center of cam view) to calculate cursor location.
 ![cursor-location](images/cursor-location.png)
 
 ---
@@ -14,13 +16,13 @@ The main idea is using a macro lens to capture actions between thumb pulb and la
 ## 🌟 Why mRing?
 
 ### The personal motivation  
-My teenage son likes to sit whole day to play PC games like HOI4 and Cards or watch and learn from related videos.
-Seeing him develop early symptoms of wrist stress and other issue forced me to rethink the input devices we all still rely on.
-
-![PC mouse issue](images/PC_mouse_issue.png)
+I am a 15+ year IC and system enginer. I have a teenage son who likes much to play PC games like HOI4/Cards and watch related videos to learn how to play.
+Seeing him always sit whole day to play and develop early symptoms of wrist stress and other issue forced me to rethink the input devices we all still rely on.
 
 **Why are we still using mouse and keyboard — technologies invented 40 years ago — in a world with AI computing, mature voice tech and powerful agents?**
 **Can we control the PC over the air while we are standing or laying down?**
+
+![PC mouse issue](images/PC_mouse_issue.png)
 
 This question led me to create **mRing**, an input device that support complex GUI operation and keyboard input on PC, inlcuding cursor positioning, common GUI operations, numbers/letters input and new circle-to-X operations. mRing also aligns with the next decade of AI-native interaction.
 
@@ -49,8 +51,6 @@ mRing combines:
 - **6nm customized ASIC MR1** for computing of gesture and screen location
 - **battery and charging point**
 - **bluetooth** for connection with computing device like PC/Phone/TV
-
-The result is a new human–machine interface that merges complete function GUI operation and real world manipulation into a single device.
 
 ![MR1_interface](images/MR1_interface.png)
 
