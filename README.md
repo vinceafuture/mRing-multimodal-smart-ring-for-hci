@@ -84,14 +84,14 @@ mRing captures the laser spot + context + voice and sends to Hosts/Robots to gen
 
 ## 📦 Contents of This Repository
 
+- **/videos/mRing_conceptual_overview.mp4**  
+  Concept demo video of mRing operations (not hardware-accurate, but illustrates interaction flows).
+  
 - **/whitepapers/**  
-  Full technical whitepaper describing mRing's design philosophy, architecture, and use cases.
+  (To be added)Full technical whitepaper describing mRing's design philosophy, architecture, and use cases.
 
 - **/images/**  
   Overview, Interaction diagrams, hardware block diagrams, and system-level flows.
-
-- **/videos/mRing-operation-concept.mp4**  
-  Concept demo video (not hardware-accurate, but illustrates interaction flows). 
 
 ---
 
