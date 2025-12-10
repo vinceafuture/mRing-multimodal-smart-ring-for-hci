@@ -1,13 +1,13 @@
-**mRing**: thumb-worn multimodal smart Ring for HCI.
+**mRing**: thumb-worn multimodal smart Ring for mid-air HCI.
 
-mRing is designed to support multimodal mid-air interactions with computers/TV/phone/AI. Users can use it to replace mouse&keyboard or remote control, to control voice input and circle selection, and also for intuitive manipulation of robots and smart home systems.
+mRing, a smart ring worn on the thumb, is designed to support multimodal mid-air interactions with Computers/TV/Phone/AI/Robots. It capture micro touch gestures between thumb and other fingers and interpret to GUI operation or inputs. Users can use it to replace mouse&keyboard or remote control, to control voice input and circle selection, and also for intuitive manipulation of robots and smart home systems.
 
 ![mRing overview](images/mRing_overview.png)
 
-The main idea is using an inner macro lens to capture touching actions between thumb pulb and lateral side of other fingers, then map to operations of GUI control or key input. as below diagram:
+The main idea is using an inner macro lens to capture micro tough gestures between thumb pulb and lateral side of other fingers, then map to operations of GUI control or key input. as below diagram:
 ![finger-cam-view](images/finger-cam-view.png)
 
-Also it use a outer scene cam to capture display in the scene and use it with thumb direction (center of cam view) to calculate cursor location. IMU is also used to assist in above calculations.
+Also it use a outer scene lens to capture display in the scene to calculate cursor location indicated by the pointing direction of the thumb. IMU is also used to assist in above calculations.
 ![cursor-location](images/cursor-location.png)
 
 ---
