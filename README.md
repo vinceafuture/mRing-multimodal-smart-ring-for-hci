@@ -12,7 +12,7 @@ Also it use a outer scene lens to capture display in the scene to calculate curs
 
 Comparison of mRing with other major platforms: PC and smartphone.
 
-![mring-comparison](images/mRing-comparison-en.png)
+![mring-comparison](images/mRing-comparison-en-2.png)
 
 ---
 
