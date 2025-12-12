@@ -10,6 +10,9 @@ The main idea is using an inner macro lens to capture micro tough gestures betwe
 Also it use a outer scene lens to capture display in the scene to calculate cursor location indicated by the pointing direction of the thumb. IMU is also used to assist in above calculations.
 ![cursor-location](images/cursor-location.png)
 
+Comparison of mRing with other major platforms: PC and smartphone.
+![mring-comparison](images/mRing-comparison-en.png)
+
 ---
 
 ## 🌟 Why mRing?
