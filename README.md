@@ -25,7 +25,7 @@ Since AI chip and algorithms are so powerful now(I am an IC/FPGA design engineer
 
 This question led me to create **mRing**: it supports complex GUI operation and keyboard input on PC, inlcuding cursor positioning, common GUI operations, numbers/letters input, voice input control and newly popular AI enabled circle-to-X operations. 
 
-![mRing_capability](images/mRing_capability.png)
+![mRing_capability](images/mRing_capability-v2.png)
 
 ---
 
