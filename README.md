@@ -23,7 +23,7 @@ I have a 8th grade son who likes much to play PC games like HOI4/Cards and watch
 
 Since AI chip and algorithms are so powerful now(I am an IC/FPGA design engineer), i thought if we can make a camera based input device to control PC in the air while standing, leaning back, or lying down.
 
-This question led me to create **mRing**: it supports complex GUI operation and keyboard input on PC, inlcuding cursor positioning, common GUI operations, numbers/letters input, voice input control and newly popular AI enabled circle-to-X operations. 
+This question led me to create **mRing**
 
 ![mRing_capability](images/mRing_capability-v2.png)
 
